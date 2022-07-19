@@ -14,7 +14,7 @@ My SQL queries use temp tables and views to show:
 - Percentages of Population Vaccinated by Country
 - Percentages of Population Infected
 
-You can view my dasboard [here](https://public.tableau.com/app/profile/andreea5048/viz/CovidDashboardDesktop_16582200848410/Dashboard1
+You can view my dashboard [here](# https://public.tableau.com/app/profile/andreea5048/viz/CovidDashboardDesktop_16582200848410/Dashboard1
 
 
 **2. Data Cleaning Project**
