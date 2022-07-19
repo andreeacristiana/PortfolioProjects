@@ -2,9 +2,9 @@
 
 ## **1. Covid Data Project**
 
-This is a project where I explore data and create dashboards (source below).
+This is a project where I explore data and create dashboards.
 
-https://ourworldindata.org/covid-deaths
+[source](https://ourworldindata.org/covid-deaths)
 
 The data that I used is from early 2020 to mid 2022.
 
