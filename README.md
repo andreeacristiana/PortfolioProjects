@@ -2,11 +2,11 @@
 
 ## **1. Covid Data Project**
 
-This is a project where I explore data and create dashboards.
+This is a project where I do exploratory data analysis and create dashboards.
 
 [source](https://ourworldindata.org/covid-deaths)
 
-The data that I used is from early 2020 to mid 2022.
+The data used is from early 2020 to mid 2022.
 
 My SQL queries use temp tables and views to show:
 - Total Global Covid Cases vs population
@@ -21,7 +21,7 @@ You can view my dashboard [here](https://public.tableau.com/app/profile/andreea5
 
 ## **2. Data Cleaning Project**
 
-In this project, I use SQL to clean data about housing in Nashville.
+In this project, I use SQL to do data cleaning in a project about housing in Nashville.
 
 The techniques used are:
 - converting data types
